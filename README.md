@@ -1,6 +1,6 @@
 # Lab: GitHub Profile Card
 
-## TODO 
+## TODO  
 
 ### VueSchool Course Vue.js Components Fundamentals
 
